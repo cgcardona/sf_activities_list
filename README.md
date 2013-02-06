@@ -13,7 +13,7 @@
 8. [Transportation](#transportation)
 9. [Lodging](#lodging)
 10. [Museums](#museums)
-11. [For Kids](#forkids)
+11. [For Kids](#for-kids)
 12. [Misc](#misc)
 13. [Nearby](#nearby)
 14. [Contributors](#contributors)
