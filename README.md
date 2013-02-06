@@ -4,6 +4,19 @@
 
 1. [Summary](#summary)
 2. [Technology](#technology)
+3. [Food/Drinks](#fooddrinks)
+4. [Nightlife](#nightife)
+4. [Music](#music)
+5. [Sports](#sports)
+6. [Outdoors](#outdoors)
+7. [Landmarks](#landmarks)
+8. [Transportation](#transportation)
+9. [Lodging](#lodging)
+10. [Museums](#museums)
+11. [Misc](#misc)
+12. [Nearby](#nearby)
+13. [Contributors](#contributors)
+14. [Legal](#legal)
 
 ## Summary
 
@@ -60,6 +73,12 @@ same place so I'm adding this link because the address is still good.
 
 ## Nightlife
 
+## Music
+
+### Amoeba
+
+[Amoeba](http://www.amoeba.com/)
+
 ## Sports
 
 ### Exhaustive list
@@ -92,15 +111,43 @@ Oakland, which is nearby, has the [Oakland As](http://en.wikipedia.org/wiki/Oakl
 
 [Golden Gate Park](http://en.wikipedia.org/wiki/Golden_Gate_Park)
 
+### Dolores Park
+
+[Dolores Park](http://en.wikipedia.org/wiki/Dolores_Park)
+
 ### Muir Woods
 
 [Muir Woods](http://en.wikipedia.org/wiki/Muir_Woods_National_Monument)
+
+### Seward Street Slides
+
+[Seward Street Slides](http://www.yelp.com/biz/seward-street-slides-san-francisco)
 
 ## Landmarks
 
 ### Golden Gate Bridge
 
 [Golden Gate Bridge](http://en.wikipedia.org/wiki/Golden_Gate_Bridge)
+
+### The Castro
+
+[The Castro](http://en.wikipedia.org/wiki/The_Castro,_San_Francisco)
+
+### Haight-Ashbury
+
+[Haight-Ashbury](http://en.wikipedia.org/wiki/Haight-Ashbury)
+
+### Lombard Street
+
+[Lombard Street](http://en.wikipedia.org/wiki/Lombard_Street_(San_Francisco))
+
+### Chinatown
+
+[Chinatown](http://en.wikipedia.org/wiki/Chinatown,_San_Francisco)
+
+### Coit Tower
+
+[Coit Tower](http://en.wikipedia.org/wiki/Coit_Tower)
 
 ### Telegraph Hill
 
@@ -142,6 +189,22 @@ Here is an exhaustive list from wikipedia of [basically every museum in the city
 
 ## Misc
 
+### Anchor Beer
+
+[Anchor Beer](http://www.anchorbrewing.com/)
+
+### United States Mint
+
+[United States Mint at San Francisco](http://www.usmint.gov/about_the_mint/mint_facilities/?action=SF_facilities)
+
+### Grace Cathedral
+
+[Grace Cathedral](http://www.gracecathedral.org/visit/labyrinth/)
+
+### Pirate Supply Store
+
+[Pirate Supply Store](http://826valencia.org/store/)
+
 ### SF FunCheap
 
 [SF Fun Cheap](http://sf.funcheap.com) is a great way to find events and discounts for the city.
@@ -170,10 +233,25 @@ building. Prepared and raw food as well as street performers and music.
 
 [Marin County](http://en.wikipedia.org/wiki/Marin_County,_California) is home to Mt. Tamalpais.
 
+#### LucasFilm
+
+[LucasFilm](http://lucasfilm.com/)
+
 ### Santa Cruz
 
-[Santa Cruz](http://en.wikipedia.org/wiki/Santa_Cruz,_California) is about an
-hour and a half south of San Francisco.
+[Santa Cruz](http://en.wikipedia.org/wiki/Santa_Cruz,_California) is about an hour and a half south of San Francisco.
+
+### San Jose
+
+[San Jose](http://en.wikipedia.org/wiki/San_Jose,_California)
+
+#### Winchester Mystery House
+
+[Winchester Mystery House](http://www.winchestermysteryhouse.com/)
+
+### Pez Museum
+
+[Pez Museum](http://www.burlingamepezmuseum.com/)
 
 ## Contributors
 
