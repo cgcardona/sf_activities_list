@@ -102,7 +102,7 @@ are multiple floors with multiple rooms and multiple vibes. Very cool spot.
 
 ### Exhaustive list
 
-Here is an exhaustive list from wikipedia of [basically every museum in the city](http://en.wikipedia.org/wiki/Sports_in_the_San_Francisco_Bay_Area).
+Here is an exhaustive list from wikipedia of [basically every sports team in the Bay Area](http://en.wikipedia.org/wiki/Sports_in_the_San_Francisco_Bay_Area).
 
 ### Football
 
