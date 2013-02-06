@@ -38,4 +38,20 @@ facility in the Financial District.
 
 ## Transportation
 
+### Bart
+
+[Bay Area Rapid Transit](http://www.bart.gov/)
+
+### San Francisco Bay Ferry
+
+[The Ferry](http://sanfranciscobayferry.com/)
+
 ## Lodging
+
+## Misc
+
+## Nearby
+
+### Sausalito
+
+[Sausalito](http://en.wikipedia.org/wiki/Sausalito,_California)
