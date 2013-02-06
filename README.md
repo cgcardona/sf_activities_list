@@ -40,6 +40,10 @@ From the website:
 > square-foot space located in the heart of San Francisco. We teach, we learn, we
 > share. [Read more about Noisebridge](https://www.noisebridge.net/wiki/Noisebridge_Vision) or [watch a short video](http://www.youtube.com/watch?v=wamwklXWK4M).
 
+### Cambrian Genomics
+
+[Cambrian Genomics](http://cambriangenomics.com/)
+
 ### Nextspace
 
 [Nextspace](http://nextspace.us/nextspace-san-francisco/) is a coworking
@@ -57,6 +61,12 @@ to grab a drink for sunset. It has an amazing nearly [360 deg view](http://goo.g
 #### Ristorante Umbria
 [Ristorante Umbria](http://ristoranteumbria.com/)
 
+### Pizza
+
+#### DNA Pizza
+
+[DNA Pizza](http://www.dnapizza.com/) (along with [DNA Lounge](http://www.dnalounge.com/)) is owned by the one and only [JWZ](http://www.jwz.org/)
+
 ### Thai
 
 #### Osha
@@ -73,6 +83,15 @@ same place so I'm adding this link because the address is still good.
 
 ## Nightlife
 
+### Temple
+
+[The Temple](http://www.templesf.com/) is my favorite club in the city. There
+are multiple floors with multiple rooms and multiple vibes. Very cool spot.
+
+### DNA Lounge
+
+[DNA Lounge](http://www.dnalounge.com/) (along with [DNA Pizza](http://www.dnapizza.com/)) is owned by the one and only [JWZ](http://www.jwz.org/)
+
 ## Music
 
 ### Amoeba
@@ -87,11 +106,11 @@ Here is an exhaustive list from wikipedia of [basically every museum in the city
 
 ### Football
 
-### Forty 49ers
+#### Forty 49ers
 
 [San Franciso 49ers](http://en.wikipedia.org/wiki/San_Francisco_49ers)
 
-### Oakland Raiders
+#### Oakland Raiders
 
 Oakland, which is nearby, has the [Raiders](http://en.wikipedia.org/wiki/Oakland_Raiders)
 
