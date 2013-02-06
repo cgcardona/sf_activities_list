@@ -57,6 +57,34 @@ facility in the Financial District.
 [The View](http://www.yelp.com/biz/the-view-san-francisco-2) is an amazing place
 to grab a drink for sunset. It has an amazing nearly [360 deg view](http://goo.gl/yTx2r).
 
+### Coffee
+
+San Francisco has several nice cafes. Some of the better known and
+more popular ones are listed below.
+
+#### Blue Bottle
+
+[Blue Bottle Coffee](http://www.bluebottlecoffee.com/) has espresso
+drinks, press pot, pour-over, and (in some locations) siphon
+coffee. Locations include the Ferry Building, SF MoMA museum, Mint
+Plaza, and their original stand in Hayes Valley.
+
+#### Four Barrel
+
+[Four Barrel](http://fourbarrelcoffee.com/) in the Mission
+neighborhood serves espresso drinks, and pour-over coffee. Their
+single-origin espresso/pour-over station (open limited hours each day)
+has several freshly roasted selections to choose from. They
+intentionally provide no wifi, as they want to encourage conversation
+and interaction.
+
+#### Ritual Coffee
+
+[Ritual Coffee](http://www.ritualroasters.com/), with locations in the
+Mission, Hayes Valley, and the Flora Grubb garden shop, serves
+espresso and pour-over drinks, and provides free wifi access if you're
+looking to get a little work done on-the-go.
+
 ### Italian
 
 #### Ristorante Umbria
