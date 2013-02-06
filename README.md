@@ -13,10 +13,11 @@
 8. [Transportation](#transportation)
 9. [Lodging](#lodging)
 10. [Museums](#museums)
-11. [Misc](#misc)
-12. [Nearby](#nearby)
-13. [Contributors](#contributors)
-14. [Legal](#legal)
+11. [For Kids](#forkids)
+12. [Misc](#misc)
+13. [Nearby](#nearby)
+14. [Contributors](#contributors)
+15. [Legal](#legal)
 
 ## Summary
 
@@ -148,6 +149,18 @@ Oakland, which is nearby, has the [Oakland As](http://en.wikipedia.org/wiki/Oakl
 
 [Golden Gate Bridge](http://en.wikipedia.org/wiki/Golden_Gate_Bridge)
 
+### Union Square
+
+[Union Square](http://en.wikipedia.org/wiki/Union_Square,_San_Francisco)
+
+### Yerbe Buena
+
+[Yerbe Buena](http://www.ybca.org/)
+
+### Moscone Center
+
+[Moscone Center](http://www.moscone.com/site/do/index)
+
 ### The Castro
 
 [The Castro](http://en.wikipedia.org/wiki/The_Castro,_San_Francisco)
@@ -194,6 +207,18 @@ Here is an exhaustive list from wikipedia of [basically every museum in the city
 
 [California Academy of Sciences](http://www.calacademy.org/)
 
+### San Francisco Museum of Modern Art
+
+[San Francisco Museum of Modern Art](http://www.sfmoma.org/)
+
+### Contemporary Jewish Museum
+
+[Contemporary Jewish Museum](http://www.thecjm.org/)
+
+### Museum of the African Diaspora
+
+[Museum of the African Diaspora](http://www.moadsf.org/)
+
 ### Exploratorium
 
 [Exploratorium](http://www.exploratorium.edu/)
@@ -205,6 +230,12 @@ Here is an exhaustive list from wikipedia of [basically every museum in the city
 ### Cartoon Art Museum
 
 [Cartoon Art Museum](http://cartoonart.org/)
+
+## For kids
+
+### Children's Creativity Museum
+
+[Children's Creativity Museum](http://creativity.org/)
 
 ## Misc
 
