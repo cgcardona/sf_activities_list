@@ -24,13 +24,22 @@ share. [Read more about Noisebridge](https://www.noisebridge.net/wiki/Noisebridg
 [Nextspace](http://nextspace.us/nextspace-san-francisco/) is a coworking
 facility in the Financial District. 
 
-## Food
+## Food/Drinks
+
+### The View
+
+[The View](http://www.yelp.com/biz/the-view-san-francisco-2) is an amazing place
+to grab a drink for sunset. It has an amazing nearly [360 deg view](http://goo.gl/yTx2r).
 
 ## Nightlife
 
 ## Sports
 
 ## Outdoors
+
+### Golden Gate Park
+
+[Golden Gate Park](http://en.wikipedia.org/wiki/Golden_Gate_Park)
 
 ### Muir Woods
 
@@ -65,6 +74,16 @@ facility in the Financial District.
 [Exploratorium](http://www.exploratorium.edu/)
 
 ## Misc
+
+### SF FunCheap
+
+[SF Fun Cheap](http://sf.funcheap.com) is a great way to find events and discounts for the city.
+
+### Ferry building farmer's market
+
+Multiple times weekly there is a huge [farmers
+market](http://www.ferrybuildingmarketplace.com/farmers_market.php) at the ferry
+building. Prepared and raw food as well as street performers and music.
 
 ## Nearby
 
