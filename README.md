@@ -81,6 +81,22 @@ to grab a drink for sunset. It has an amazing nearly [360 deg view](http://goo.g
 actually closed down but I know that another Indian restaurant opened in the
 same place so I'm adding this link because the address is still good.
 
+### Sushi
+
+#### Kiss Seafood
+
+[Kiss Seafood](http://www.yelp.com/biz/kiss-seafood-san-francisco) in
+Japantown is the best of many good sushi options within the city. It
+requires a reservation, usually several days in advance, and is
+relatively expensive, but worth it if you're looking for someplace
+special. The special omakase is the best way to go - several courses of
+very creative Japanese food - sushi, sashimi, chawan mushi, etc.
+
+#### O-Toro Sushi
+
+[O-Toro Sushi](http://www.otorosushi.com) in Hayes Valley is another great
+option at a lower price point, but with a fantastic selection of fresh fish.
+
 ## Nightlife
 
 ### Temple
@@ -276,6 +292,7 @@ building. Prepared and raw food as well as street performers and music.
 
 * [Carlos Cardona](http://twitter.com/cgcardona)
 * [Jeff Schultz](https://plus.google.com/u/0/108059114686877527512/posts)
+* [Mark Lacey](https://github.com/superoptimizer)
 
 ## Legal
 
