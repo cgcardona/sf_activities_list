@@ -32,9 +32,19 @@ facility in the Financial District.
 
 ## Outdoors
 
+### Muir Woods
+
+[Muir Woods](http://en.wikipedia.org/wiki/Muir_Woods_National_Monument)
+
 ## Landmarks
 
 ### Golden Gate Bridge
+
+[Golden Gate Bridge](http://en.wikipedia.org/wiki/Golden_Gate_Bridge)
+
+### Telegraph Hill
+
+[Telegraph Hill](http://en.wikipedia.org/wiki/Telegraph_Hill,_San_Francisco)
 
 ## Transportation
 
@@ -47,6 +57,12 @@ facility in the Financial District.
 [The Ferry](http://sanfranciscobayferry.com/)
 
 ## Lodging
+
+## Museums
+
+### Exploratorium
+
+[Exploratorium](http://www.exploratorium.edu/)
 
 ## Misc
 
