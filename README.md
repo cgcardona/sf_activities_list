@@ -31,6 +31,25 @@ facility in the Financial District.
 [The View](http://www.yelp.com/biz/the-view-san-francisco-2) is an amazing place
 to grab a drink for sunset. It has an amazing nearly [360 deg view](http://goo.gl/yTx2r).
 
+### Italian
+
+#### Ristorante Umbria
+[Ristorante Umbria](http://ristoranteumbria.com/)
+
+### Thai
+
+#### Osha
+
+[Osha](http://www.oshathai.com/)
+
+### Indian
+
+#### Okra
+
+[Okra](http://www.yelp.com/biz/okra-indian-cuisine-and-wine-bar-san-francisco)
+actually closed down but I know that another Indian restaurant opened in the
+same place so I'm adding this link because the address is still good.
+
 ## Nightlife
 
 ## Sports
@@ -69,6 +88,10 @@ to grab a drink for sunset. It has an amazing nearly [360 deg view](http://goo.g
 
 ## Museums
 
+### Exhaustive list
+
+Here is an exhaustive list from wikipedia of [basically every museum in the city](http://en.wikipedia.org/wiki/List_of_museums_in_the_San_Francisco_Bay_Area).
+
 ### Exploratorium
 
 [Exploratorium](http://www.exploratorium.edu/)
@@ -90,3 +113,7 @@ building. Prepared and raw food as well as street performers and music.
 ### Sausalito
 
 [Sausalito](http://en.wikipedia.org/wiki/Sausalito,_California)
+
+## Legal
+
+This document is licensed under the [MIT License](http://opensource.org/licenses/MIT)
