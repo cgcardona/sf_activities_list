@@ -1,5 +1,10 @@
 # San Francisco Activities List
 
+## Contents
+
+1. [Summary](#summary)
+2. [Technology](#technology)
+
 ## Summary
 
 An online friend recently told me that they are coming to [San Francisco](http://en.wikipedia.org/wiki/San_Francisco) for a
@@ -7,7 +12,8 @@ week and asked for some suggestions of things to do.
 
 I figured the best way to handle this would be to outsource it as well as create
 a github repo so that anyone can improve the list. So if you know of something
-cool and don't see it on here please add it or if you see something wrong fix it.
+cool and don't see it on here please add it or if you see something wrong fix it
+(and don't forget to add yourself to the contributors list).
 
 ## Technology
 
@@ -118,15 +124,35 @@ Oakland, which is nearby, has the [Oakland As](http://en.wikipedia.org/wiki/Oakl
 
 Here is an exhaustive list from wikipedia of [basically every museum in the city](http://en.wikipedia.org/wiki/List_of_museums_in_the_San_Francisco_Bay_Area).
 
+### California Academy of Sciences
+
+[California Academy of Sciences](http://www.calacademy.org/)
+
 ### Exploratorium
 
 [Exploratorium](http://www.exploratorium.edu/)
+
+### Cable Car Museum
+
+[Cable Car Museum](http://www.cablecarmuseum.org/)
+
+### Cartoon Art Museum
+
+[Cartoon Art Museum](http://cartoonart.org/)
 
 ## Misc
 
 ### SF FunCheap
 
 [SF Fun Cheap](http://sf.funcheap.com) is a great way to find events and discounts for the city.
+
+### CityPass
+
+[CityPass](http://www.citypass.com/san-francisco)
+
+### Segway Tour
+
+[Segway Tour](http://www.electrictourcompany.com/)
 
 ### Ferry building farmer's market
 
@@ -148,6 +174,11 @@ building. Prepared and raw food as well as street performers and music.
 
 [Santa Cruz](http://en.wikipedia.org/wiki/Santa_Cruz,_California) is about an
 hour and a half south of San Francisco.
+
+## Contributors
+
+* [Carlos Cardona](http://twitter.com/cgcardona)
+* [Jeff Schultz](https://plus.google.com/u/0/108059114686877527512/posts)
 
 ## Legal
 
