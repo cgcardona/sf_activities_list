@@ -54,6 +54,30 @@ same place so I'm adding this link because the address is still good.
 
 ## Sports
 
+### Exhaustive list
+
+Here is an exhaustive list from wikipedia of [basically every museum in the city](http://en.wikipedia.org/wiki/Sports_in_the_San_Francisco_Bay_Area).
+
+### Football
+
+### Forty 49ers
+
+[San Franciso 49ers](http://en.wikipedia.org/wiki/San_Francisco_49ers)
+
+### Oakland Raiders
+
+Oakland, which is nearby, has the [Raiders](http://en.wikipedia.org/wiki/Oakland_Raiders)
+
+### Baseball
+
+#### Giants
+
+[San Francisco Giants](http://en.wikipedia.org/wiki/San_Francisco_Giants)
+
+#### Oakland Athletics
+
+Oakland, which is nearby, has the [Oakland As](http://en.wikipedia.org/wiki/Oakland_Athletics)
+
 ## Outdoors
 
 ### Golden Gate Park
@@ -113,6 +137,15 @@ building. Prepared and raw food as well as street performers and music.
 ### Sausalito
 
 [Sausalito](http://en.wikipedia.org/wiki/Sausalito,_California)
+
+### Marin County
+
+[Marin County](http://en.wikipedia.org/wiki/Marin_County,_California) is home to Mt. Tamalpais.
+
+### Santa Cruz
+
+[Santa Cruz](http://en.wikipedia.org/wiki/Santa_Cruz,_California) is about an
+hour and a half south of San Francisco.
 
 ## Legal
 
