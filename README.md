@@ -41,6 +41,9 @@ From the website:
 > square-foot space located in the heart of San Francisco. We teach, we learn, we
 > share. [Read more about Noisebridge](https://www.noisebridge.net/wiki/Noisebridge_Vision) or [watch a short video](http://www.youtube.com/watch?v=wamwklXWK4M).
 
+* 2169 Mission St, 3rd floor
+* San Francisco, CA 94103
+
 ### Cambrian Genomics
 
 [Cambrian Genomics](http://cambriangenomics.com/)
@@ -49,6 +52,11 @@ From the website:
 
 [Nextspace](http://nextspace.us/nextspace-san-francisco/) is a coworking
 facility in the Financial District. 
+
+* 28 2nd Street, Floor 2 & 3
+* San Francisco, CA 94105
+* P. 415-513-0456
+* nextspacesf@nextspace.us
 
 ## Food/Drinks
 
@@ -63,7 +71,7 @@ to grab a drink for sunset. It has an amazing nearly [360 deg view](http://goo.g
 
 ##### Financial District (Near Yerbe Buena)
 
-[Super Duper Burger Financial District](http://www.yelp.com/biz/super-duper-burgers-san-francisco-2)
+[Super Duper Burger Financial District](http://www.superdupersf.com/)
 
 * 783 Mission St (between Yerba Buena Ln & 4th St) 
 * San Francisco, CA 94103
@@ -72,13 +80,23 @@ to grab a drink for sunset. It has an amazing nearly [360 deg view](http://goo.g
 ### Italian
 
 #### Ristorante Umbria
+
 [Ristorante Umbria](http://ristoranteumbria.com/)
+
+* 198 2nd Street
+* San Francisco, CA 94105
 
 ### Pizza
 
 #### DNA Pizza
 
 [DNA Pizza](http://www.dnapizza.com/) (along with [DNA Lounge](http://www.dnalounge.com/)) is owned by the one and only [JWZ](http://www.jwz.org/)
+
+* Open 24 hours, every day
+* Free delivery
+
+* 371 Eleventh Street at Harrison
+* 415-626-0166
 
 ### Thai
 
@@ -98,7 +116,7 @@ same place so I'm adding this link because the address is still good.
 
 #### Bamboo Asia
 
-[Bamboo Asia](http://www.yelp.com/biz/bamboo-asia-san-francisco)
+[Bamboo Asia](http://www.eatatbamboo.com/)
 
 * 41 Montgomery
 * (between Post St & Sutter St) 
