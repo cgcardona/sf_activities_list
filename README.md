@@ -57,33 +57,17 @@ facility in the Financial District.
 [The View](http://www.yelp.com/biz/the-view-san-francisco-2) is an amazing place
 to grab a drink for sunset. It has an amazing nearly [360 deg view](http://goo.gl/yTx2r).
 
-### Coffee
+### Burgers
 
-San Francisco has several nice cafes. Some of the better known and
-more popular ones are listed below.
+#### Super Duper Burger 
 
-#### Blue Bottle
+##### Financial District (Near Yerbe Buena)
 
-[Blue Bottle Coffee](http://www.bluebottlecoffee.com/) has espresso
-drinks, press pot, pour-over, and (in some locations) siphon
-coffee. Locations include the Ferry Building, SF MoMA museum, Mint
-Plaza, and their original stand in Hayes Valley.
+[Super Duper Burger Financial District](http://www.yelp.com/biz/super-duper-burgers-san-francisco-2)
 
-#### Four Barrel
-
-[Four Barrel](http://fourbarrelcoffee.com/) in the Mission
-neighborhood serves espresso drinks, and pour-over coffee. Their
-single-origin espresso/pour-over station (open limited hours each day)
-has several freshly roasted selections to choose from. They
-intentionally provide no wifi, as they want to encourage conversation
-and interaction.
-
-#### Ritual Coffee
-
-[Ritual Coffee](http://www.ritualroasters.com/), with locations in the
-Mission, Hayes Valley, and the Flora Grubb garden shop, serves
-espresso and pour-over drinks, and provides free wifi access if you're
-looking to get a little work done on-the-go.
+* 783 Mission St (between Yerba Buena Ln & 4th St) 
+* San Francisco, CA 94103
+* Neighborhood: Financial District
 
 ### Italian
 
@@ -112,6 +96,16 @@ same place so I'm adding this link because the address is still good.
 
 ### Sushi
 
+#### Bamboo Asia
+
+[Bamboo Asia](http://www.yelp.com/biz/bamboo-asia-san-francisco)
+
+* 41 Montgomery
+* (between Post St & Sutter St) 
+* San Francisco, CA 94104
+* Neighborhood: Financial District
+* (415) 772-9134
+
 #### Kiss Seafood
 
 [Kiss Seafood](http://www.yelp.com/biz/kiss-seafood-san-francisco) in
@@ -125,6 +119,46 @@ very creative Japanese food - sushi, sashimi, chawan mushi, etc.
 
 [O-Toro Sushi](http://www.otorosushi.com) in Hayes Valley is another great
 option at a lower price point, but with a fantastic selection of fresh fish.
+
+### Noodles
+
+#### Ramen Underground
+
+[Ramen Underground](http://ramenunderground.org/)
+
+* 355 Kearny St
+* (between Bush St & Pine St) 
+* San Francisco, CA 94108
+* Neighborhood: Financial District
+* (415) 765-9909
+
+### Coffee
+
+San Francisco has several nice cafes. Some of the better known and
+more popular ones are listed below.
+
+#### Blue Bottle
+
+[Blue Bottle Coffee](http://www.bluebottlecoffee.com/) has espresso
+drinks, press pot, pour-over, and (in some locations) siphon
+coffee. Locations include the Ferry Building, SF MoMA museum, Mint
+Plaza, and their original stand in Hayes Valley.
+
+#### Four Barrel
+
+[Four Barrel](http://fourbarrelcoffee.com/) in the Mission
+neighborhood serves espresso drinks, and pour-over coffee. Their
+single-origin espresso/pour-over station (open limited hours each day)
+has several freshly roasted selections to choose from. They
+intentionally provide no wifi, as they want to encourage conversation
+and interaction.
+
+#### Ritual Coffee
+
+[Ritual Coffee](http://www.ritualroasters.com/), with locations in the
+Mission, Hayes Valley, and the Flora Grubb garden shop, serves
+espresso and pour-over drinks, and provides free wifi access if you're
+looking to get a little work done on-the-go.
 
 ## Nightlife
 
