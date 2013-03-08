@@ -31,6 +31,15 @@ cool and don't see it on here please add it or if you see something wrong fix it
 
 ## Technology
 
+### Bay Lights
+
+From the website:
+
+> [The Bay Lights](http://thebaylights.org/) is the world’s largest LED light sculpture, 1.8 miles wide and
+> 500 feet high. Inspired by the Bay Bridge’s 75th Anniversary, its 25,000 white
+> LED lights are individually programmed by artist Leo Villareal to create a
+> never-repeating, dazzling display across the Bay Bridge West Span through 2015.
+
 ### NoiseBridge
 
 From the website:
