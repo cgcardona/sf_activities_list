@@ -336,6 +336,10 @@ Here is an exhaustive list from wikipedia of [basically every museum in the city
 
 [Cartoon Art Museum](http://cartoonart.org/)
 
+### Computer History Museum
+
+[Computer History Museum](http://www.computerhistory.org/)
+
 ## For kids
 
 ### Children's Creativity Museum
